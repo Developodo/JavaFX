@@ -1,0 +1,28 @@
+--class-path
+'/Users/carlosserrano/.m2/repository/org/openjfx/javafx-controls/14/javafx-controls-14.jar:/Users/carlosserrano/.m2/repository/org/openjfx/javafx-graphics/14/javafx-graphics-14.jar:/Users/carlosserrano/.m2/repository/org/openjfx/javafx-base/14/javafx-base-14.jar:/Users/carlosserrano/.m2/repository/org/openjfx/javafx-fxml/14/javafx-fxml-14.jar'
+--module-path
+'/Users/carlosserrano/.m2/repository/org/openjfx/javafx-base/14/javafx-base-14-mac.jar:/Users/carlosserrano/.m2/repository/org/openjfx/javafx-graphics/14/javafx-graphics-14-mac.jar:/Users/carlosserrano/.m2/repository/org/openjfx/javafx-controls/14/javafx-controls-14-mac.jar:/Users/carlosserrano/.m2/repository/org/openjfx/javafx-fxml/14/javafx-fxml-14-mac.jar'
+--patch-module
+com.carlosserrano.proyectojavafx='/Users/carlosserrano/NetBeansProjects/ProyectoJavaFX/src/main/java'
+-encoding
+'UTF-8'
+-protected
+--module-source-path
+'/Users/carlosserrano/NetBeansProjects/ProyectoJavaFX/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/carlosserrano/NetBeansProjects/ProyectoJavaFX/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoJavaFX 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' '/Users/carlosserrano/NetBeansProjects/ProyectoJavaFX/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ProyectoJavaFX 1.0-SNAPSHOT API'
