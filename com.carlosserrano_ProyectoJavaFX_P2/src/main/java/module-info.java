@@ -6,6 +6,7 @@ module com.carlosserrano.proyectojavafx {
     requires java.prefs;
 
     opens com.carlosserrano.proyectojavafx.utils to java.xml.bind; //Para que JAXB pueda ejecutarse en XMLUtil
+    opens com.carlosserrano.proyectojavafx.model to java.xml.bind; //Para que JAXB pueda ejecutarse en ConnectionWrapper
     opens com.carlosserrano.proyectojavafx.controller to javafx.fxml;
     
     exports com.carlosserrano.proyectojavafx;
