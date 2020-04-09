@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<conns>
+    <conn>
+        <name>Mi servidor</name>
+        <password></password>
+        <server>localhost</server>
+        <type>mySQL</type>
+        <userName>root</userName>
+    </conn>
+    <conn>
+        <name>Embebido</name>
+        <password></password>
+        <server>~/</server>
+        <type>H2</type>
+        <userName>sa</userName>
+    </conn>
+</conns>
